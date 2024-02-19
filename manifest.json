@@ -1,0 +1,21 @@
+{
+  "short_name": "臺灣好天氣",
+  "name": "臺灣好天氣-即時縣市天氣",
+  "icons": [
+    {
+      "src": "icon@192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon@512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#1f2022",
+  "background_color": "#1f2022"
+}
